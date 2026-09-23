@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mlcilxh.cn/sitemap.xml

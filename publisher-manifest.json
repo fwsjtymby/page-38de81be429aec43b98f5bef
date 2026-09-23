@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "162ca9ee93fd2aa4c3f3de7e",
+  "owner": "fwsjtymby",
+  "repo": "page-38de81be429aec43b98f5bef",
+  "title": "惊鸿",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "38de81be429aec43b98f5bef",
+      "a": "惊鸿",
+      "b": "机场官网线路发布页",
+      "entity": "惊鸿",
+      "brand": "惊鸿",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0d1a0579f9f6dd17bfaf1ec8b2478885b48b5a7d4bbc62cc864c248cbdf99d5a",
+      "content": {
+        "primary_entity": "惊鸿",
+        "keyword1": "惊鸿",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，惊鸿提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB，分别在 3 台、5 台与 20 台设备上使用。基础版适合个人轻度浏览，旗舰版包含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版支持企业定制路由与专属客户经理。按年付可节省两个月费用，可根据设备数量与流量需求选择对应档位。",
+          "AI_HERO_SUBTITLE": "惊鸿，按设备选套餐",
+          "AI_HERO_INTRO": "惊鸿为不同用户提供基础版、旗舰版和团队版三档加速方案，覆盖从个人到团队的设备与流量需求。基础版满足日常浏览，旗舰版强化游戏与流媒体体验，团队版面向多设备协同场景。三档均支持按年付，价格与权益一目了然。",
+          "AI_VISUAL_TITLE": "惊鸿三档方案",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付节省两个月费用",
+          "AI_FEATURES_TITLE": "惊鸿套餐特点",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量到线路品质，惊鸿三档方案对应不同使用强度。",
+          "AI_FEATURE_TITLE_1": "流量梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按用量选择不浪费。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，多人多设备可匹配团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "各档位均提供月付与年付，年付参考价为基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "惊鸿订阅可在常见客户端中导入，根据你的系统选择对应工具，并参照该客户端文档完成配置。",
+          "AI_PLANS_TITLE": "惊鸿套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。旗舰版额外提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版增加 VIP 专属高带宽节点与专属客户经理服务。",
+          "AI_GUIDE_TITLE": "三步用上惊鸿",
+          "AI_GUIDE_INTRO": "确定套餐档位、核对设备与流量适配要求，再按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版与团队版的月流量和设备数量，选择适合当前使用强度的方案。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认使用的设备数量和每月流量预期，避免超出所选套餐的上限影响体验。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在对应客户端中依据该客户端的配置文档填入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "惊鸿三档套餐分别适合什么场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合个人日常浏览。旗舰版每月 300GB、5 台设备，适合有游戏加速和流媒体解锁需求的用户。团队版每月 1000GB、20 台设备，适合多设备协同或小团队使用。",
+          "AI_FAQ_QUESTION_2": "惊鸿套餐的设备数量怎么计算？",
+          "AI_FAQ_ANSWER_2": "设备数量指同一时间在线的设备台数，基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑、平板等均计入，建议按常用设备总数选择对应档位。",
+          "AI_FAQ_QUESTION_3": "惊鸿按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付参考价为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于节省两个月费用，权益与月付版本一致。可根据使用周期长短选择。",
+          "AI_FAQ_QUESTION_4": "惊鸿订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "先按设备选择对应的客户端，再打开该客户端的配置文档，找到订阅导入入口，填入惊鸿提供的订阅信息并保存，然后选择节点连接。不同客户端操作略有差异，以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "惊鸿套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "每月流量在套餐内使用，基础版 100GB、旗舰版 300GB、团队版 1000GB。若当月流量接近用完，可考虑升级到更高档位或等待次月流量刷新。",
+          "AI_CLOSING_TITLE": "选对惊鸿档位",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量需求选定套餐，按年付更划算。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mlcilxh.cn",
+    "host": "mlcilxh.cn"
+  },
+  "file_hashes": {
+    "index.html": "88d2a73d42ad103cd7ace706ed21b9d0418a4fc5df9a68a883e08a7da7e74e7f",
+    "sitemap.xml": "aca23ddcd808003e3afb2dc71c227079bfe3ef2f5b1a52a91c46ba1672580b7e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "01755fd35cdaaa37b0eacd7991b86841527eccce4dcc7da05bfd97ddb0d96b0a",
+    "robots.txt": "6c47f3c66985e953c5df05f78e68ef78a88a1e8a8d609ee702784072d21d39de",
+    "9eca3471fc4430e6448452623dfcef6a.txt": "5570bbdd0f7a32e09b347039843ab0552dccc8e97ef8fde6d027219e0b21fe64"
+  },
+  "revision": "c9a21447de72b3078ba5d4f6b2dccaf9833be7dd030e94012f8a072fef584ecf"
+}
